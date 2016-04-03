@@ -32,6 +32,7 @@ Cookiecutter
 * License
 * Changelog
 * Badges
+
   * PyPI
   * RTFD
   * CI
@@ -42,9 +43,12 @@ Getting Started
 * Requirements
 * Installation
 * Usage
+
   * CLI
   * Python API
+
 * Troubleshooting
+
   * Issue Tracker
   * Gitter
 
