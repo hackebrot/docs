@@ -16,3 +16,71 @@ Personas
   create a template for others
 * Contributor: Can be either of above and would like to give back to the
   project by submitting PRs, triaging issues or helping out
+
+Types of Documentation
+~~~~~~~~~~~~~~~~~~~~~~
+
+* README
+* ReadTheDocs
+* PyPI
+
+Cookiecutter
+~~~~~~~~~~~~
+
+* Description
+* Repository
+* License
+* Changelog
+* Badges
+  * PyPI
+  * RTFD
+  * CI
+
+Getting Started
+~~~~~~~~~~~~~~~
+
+* Requirements
+* Installation
+* Usage
+  * CLI
+  * Python API
+* Troubleshooting
+  * Issue Tracker
+  * Gitter
+
+Community Templates
+~~~~~~~~~~~~~~~~~~~
+
+* Language
+* Framework
+
+Authoring Templates
+~~~~~~~~~~~~~~~~~~~
+
+* Jinja2 basics
+* Minimum requirements
+* Testing templates
+* Pre/Post generation hooks
+* Templated default values
+* Current datetime
+* Choice variables
+* Copy without render
+
+Community
+~~~~~~~~~
+
+* Project Maintainers
+* Authors
+* Code of Conduct
+* Roadmap
+* Gitter
+* Funding
+
+Contributing
+~~~~~~~~~~~~
+
+* Helping others on the issue tracker
+* Coding code reviews on PRs
+* Writing documentation
+* Implementing new features
+* Fixing bugs 
