@@ -20,9 +20,9 @@ Personas
 Types of Documentation
 ~~~~~~~~~~~~~~~~~~~~~~
 
-* README
+* GitHub README
 * ReadTheDocs
-* PyPI
+* PyPI Info
 
 Cookiecutter
 ~~~~~~~~~~~~
@@ -42,7 +42,7 @@ Getting Started
 
 * Requirements
 * Installation
-* Usage
+* Usage on example of an existing template
 
   * CLI
   * Python API
@@ -57,6 +57,7 @@ Community Templates
 
 * Language
 * Framework
+
 
 Authoring Templates
 ~~~~~~~~~~~~~~~~~~~
